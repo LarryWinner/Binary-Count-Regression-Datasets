@@ -1,0 +1,151 @@
+       1    1975       1      35    2.54     191       1       5      13        RIV     Riverside International Raceway  
+       2    1975       2      40     2.5     200       0       3      19        DAY     Daytona International Speedway   
+       3    1975       3      22    0.75     500       0       7       2        RIC     Richmond International Raceway    
+       4    1975       4      31   1.017     492       0       4      15        NC      North Carolina Speedway           
+       5    1975       5      23   0.533     500       0       2       6        BRI     Bristol Motor Speedway            
+       6    1975       6      36    1.54     328       0       5      22        ATL     Atlanta Motor Speedway            
+       7    1975       7      28   0.625     400       0       4      15        NW      North Wilkesboro Speedway         
+       8    1975       8      36   1.366     367       0      11      22        DAR     Darlington Raceway                
+       9    1975       9      30   0.526     500       0       4      18        MAR     Martinsville Speedway            
+      10    1975      10      50    2.66     188       0       5      51        TAL     Talladega Superspeedway         
+      11    1975      11      28   0.625     420       0       1       2        NAS     Nashville Speedway                
+      12    1975      12      35       1     500       0       8      19        DOV     Dover International Speedway        
+      13    1975      13      40     1.5     400       0       3      17        CHA     Lowe's Motor Speedway             
+      14    1975      14      35    2.54     153       1       3      14        RIV     Riverside International Raceway    
+      15    1975      15      36       2     200       0       5      44        MIC     Michigan International Speedway   
+      16    1975      16      40     2.5     160       0       3      16        DAY     Daytona International Speedway       
+      17    1975      17      30   0.625     420       0       2       5        NAS     Nashville Speedway                     
+      18    1975      18      35     2.5     200       0       5      43        POC     Pocono Raceway                    
+      19    1975      19      50    2.66     188       0       8      60        TAL     Talladega Superspeedway            
+      20    1975      20      36       2     200       0       6      25        MIC     Michigan International Speedway              
+      21    1975      21      40   1.366     367       0      10      20        DAR     Darlington Raceway                       
+      22    1975      22      37       1     500       0       5      18        DOV     Dover International Speedway          
+      23    1975      23      30   0.625     400       0       7      11        NW      North Wilkesboro Speedway            
+      24    1975      24      30   0.526     500       0       7      29        MAR     Martinsville Speedway               
+      25    1975      25      42     1.5     334       0       7      29        CHA     Lowe's Motor Speedway                 
+      26    1975      26      28    0.75     500       0       4      10        RIC     Richmond International Raceway       
+      27    1975      27      37   1.017     492       0       4      15        NC      North Carolina Speedway             
+      28    1975      28      30   0.533     500       0       5      12        BRI     Bristol Motor Speedway               
+      29    1975      29      36    1.54     328       0       2      17        ATL     Atlanta Motor Speedway                   
+      30    1975      30      40     2.5     200       0       1      20        ONT     Ontario Motor Speedway                
+      31    1976       1      35    2.54     191       1       5      17        RIV     Riverside International Raceway         
+      32    1976       2      42     2.5     200       0       7      36        DAY     Daytona International Speedway       
+      33    1976       3      36   1.017     492       0       5      13        NC      North Carolina Speedway            
+      34    1976       4      30    0.75     400       0       0      19        RIC     Richmond International Raceway          
+      35    1976       5      30   0.533     400       0       6      16        BRI     Bristol Motor Speedway                 
+      36    1976       6      36    1.54     328       0       8      33        ATL     Atlanta Motor Speedway               
+      37    1976       7      28   0.625     400       0       2       8        NW      North Wilkesboro Speedway              
+      38    1976       8      36   1.366     367       0       8      32        DAR     Darlington Raceway                    
+      39    1976       9      30   0.526     500       0       6      11        MAR     Martinsville Speedway             
+      40    1976      10      40    2.66     188       0       3      24        TAL     Talladega Superspeedway              
+      41    1976      11      30   0.625     420       0       5      16        NAS     Nashville Speedway                  
+      42    1976      12      39       1     500       0       6      17        DOV     Dover International Speedway               
+      43    1976      13      40     1.5     400       0       7      37        CHA     Lowe's Motor Speedway                   
+      44    1976      14      35    2.54      95       1       1       7        RIV     Riverside International Raceway           
+      45    1976      15      36       2     200       0       3      17        MIC     Michigan International Speedway          
+      46    1976      16      40     2.5     160       0       2      41        DAY     Daytona International Speedway           
+      47    1976      17      30   0.625     420       0       3       9        NAS     Nashville Speedway                       
+      48    1976      18      40     2.5     200       0       7      48        POC     Pocono Raceway                          
+      49    1976      19      40    2.66     188       0       3      58        TAL     Talladega Superspeedway                 
+      50    1976      20      36       2     200       0       4      34        MIC     Michigan International Speedway              
+      51    1976      21      30   0.533     400       0       2       1        BRI     Bristol Motor Speedway               
+      52    1976      22      40   1.366     367       0       8      31        DAR     Darlington Raceway                 
+      53    1976      23      30    0.75     400       0       2      12        RIC     Richmond International Raceway         
+      54    1976      24      37       1     500       0       2      21        DOV     Dover International Speedway               
+      55    1976      25      30   0.526     340       0       3       7        MAR     Martinsville Speedway                 
+      56    1976      26      30   0.625     400       0       2       5        NW      North Wilkesboro Speedway            
+      57    1976      27      40     1.5     334       0       3      26        CHA     Lowe's Motor Speedway                
+      58    1976      28      36   1.017     492       0       6      15        NC      North Carolina Speedway                 
+      59    1976      29      36    1.54     328       0       4      17        ATL     Atlanta Motor Speedway                
+      60    1976      30      40     2.5     200       0       2       4        ONT     Ontario Motor Speedway              
+      61    1977       1      35    2.54     119       1       0       3        RIV     Riverside International Raceway       
+      62    1977       2      42     2.5     200       0       6      30        DAY     Daytona International Speedway         
+      63    1977       3      30    0.75     245       0       4       9        RIC     Richmond International Raceway          
+      64    1977       4      36   1.017     492       0      11      30        NC      North Carolina Speedway            
+      65    1977       5      42    1.54     328       0       2      15        ATL     Atlanta Motor Speedway              
+      66    1977       6      29   0.625     400       0       6      12        NW      North Wilkesboro Speedway          
+      67    1977       7      36   1.366     367       0       6      28        DAR     Darlington Raceway                 
+      68    1977       8      30   0.533     500       0       2       5        BRI     Bristol Motor Speedway              
+      69    1977       9      30   0.526     384       0       3       8        MAR     Martinsville Speedway              
+      70    1977      10      41    2.66     188       0       6      63        TAL     Talladega Superspeedway                 
+      71    1977      11      30   0.625     420       0       3       3        NAS     Nashville Speedway                 
+      72    1977      12      36       1     500       0       2      11        DOV     Dover International Speedway             
+      73    1977      13      40     1.5     400       0       6      25        CHA     Lowe's Motor Speedway                
+      74    1977      14      35    2.54      95       1       1       7        RIV     Riverside International Raceway              
+      75    1977      15      36       2     200       0       4      19        MIC     Michigan International Speedway          
+      76    1977      16      41     2.5     160       0       2      34        DAY     Daytona International Speedway            
+      77    1977      17      30   0.625     420       0      10       7        NAS     Nashville Speedway                    
+      78    1977      18      35     2.5     200       0       4      47        POC     Pocono Raceway                    
+      79    1977      19      40    2.66     188       0       5      49        TAL     Talladega Superspeedway               
+      80    1977      20      36       2     200       0       5      31        MIC     Michigan International Speedway           
+      81    1977      21      29   0.533     400       0       6      14        BRI     Bristol Motor Speedway                   
+      82    1977      22      40   1.366     367       0       6      32        DAR     Darlington Raceway                    
+      83    1977      23      28    0.75     400       0       5      12        RIC     Richmond International Raceway                 
+      84    1977      24      40       1     500       0       3       9        DOV     Dover International Speedway                
+      85    1977      25      30   0.526     500       0       9      13        MAR     Martinsville Speedway                   
+      86    1977      26      26   0.625     400       0       3       9        NW      North Wilkesboro Speedway                  
+      87    1977      27      41     1.5     334       0       4      18        CHA     Lowe's Motor Speedway                  
+      88    1977      28      36   1.017     492       0       9      24        NC      North Carolina Speedway                 
+      89    1977      29      40    1.54     268       0       5      12        ATL     Atlanta Motor Speedway                 
+      90    1977      30      42     2.5     200       0       5      37        ONT     Ontario Motor Speedway                
+      91    1978       1      35    2.54     119       1       4      12        RIV     Riverside International Raceway         
+      92    1978       2      41     2.5     200       0       5      37        DAY     Daytona International Speedway               
+      93    1978       3      30    0.75     400       0       5      10        RIC     Richmond International Raceway         
+      94    1978       4      36   1.017     492       0       8      24        NC      North Carolina Speedway              
+      95    1978       5      40    1.54     328       0       4       9        ATL     Atlanta Motor Speedway                  
+      96    1978       6      29   0.533     500       0       4      13        BRI     Bristol Motor Speedway                   
+      97    1978       7      36   1.366     367       0       7      24        DAR     Darlington Raceway                    
+      98    1978       8      29   0.625     400       0       4      18        NW      North Wilkesboro Speedway              
+      99    1978       9      30   0.526     500       0       4       6        MAR     Martinsville Speedway               
+     100    1978      10      41    2.66     188       0       5      44        TAL     Talladega Superspeedway              
+     101    1978      11      40       1     500       0       6      16        DOV     Dover International Speedway               
+     102    1978      12      40     1.5     400       0       6      43        CHA     Lowe's Motor Speedway                   
+     103    1978      13      30   0.625     420       0       2       1        NAS     Nashville Speedway                   
+     104    1978      14      35    2.54      95       1       1      10        RIV     Riverside International Raceway              
+     105    1978      15      35       2     200       0       1      25        MIC     Michigan International Speedway              
+     106    1978      16      40     2.5     160       0       4      29        DAY     Daytona International Speedway             
+     107    1978      17      30   0.625     420       0       3       5        NAS     Nashville Speedway                 
+     108    1978      18      40     2.5     200       0       1      37        POC     Pocono Raceway                     
+     109    1978      19      41    2.66     188       0       4      67        TAL     Talladega Superspeedway              
+     110    1978      20      36       2     200       0       7      34        MIC     Michigan International Speedway           
+     111    1978      21      30   0.533     500       0      10      16        BRI     Bristol Motor Speedway                  
+     112    1978      22      40   1.366     367       0       9      21        DAR     Darlington Raceway                 
+     113    1978      23      30    0.75     400       0       5      15        RIC     Richmond International Raceway           
+     114    1978      24      37       1     500       0       3       7        DOV     Dover International Speedway                
+     115    1978      25      30   0.526     500       0       4       6        MAR     Martinsville Speedway               
+     116    1978      26      27   0.625     400       0       1       1        NW      North Wilkesboro Speedway              
+     117    1978      27      40     1.5     334       0       4      40        CHA     Lowe's Motor Speedway               
+     118    1978      28      36   1.017     492       0       5      19        NC      North Carolina Speedway             
+     119    1978      29      40    1.54     328       0       7      25        ATL     Atlanta Motor Speedway             
+     120    1978      30      40     2.5     200       0       4      30        ONT     Ontario Motor Speedway                
+     121    1979       1      35    2.54     119       1       0      13        RIV     Riverside International Raceway            
+     122    1979       2      41     2.5     200       0       7      36        DAY     Daytona International Speedway          
+     123    1979       3      35   1.017     492       0       7      13        NC      North Carolina Speedway             
+     124    1979       4      30    0.75     400       0       2       3        RIC     Richmond International Raceway       
+     125    1979       5      40    1.54     328       0       5      29        ATL     Atlanta Motor Speedway                
+     126    1979       6      30   0.625     400       0       4      20        NW      North Wilkesboro Speedway            
+     127    1979       7      30   0.533     500       0       6       9        BRI     Bristol Motor Speedway                
+     128    1979       8      36   1.366     367       0       6      25        DAR     Darlington Raceway                
+     129    1979       9      30   0.526     500       0       5      11        MAR     Martinsville Speedway                
+     130    1979      10      40    2.66     188       0       4      21        TAL     Talladega Superspeedway                  
+     131    1979      11      28   0.625     420       0       3       9        NAS     Nashville Speedway                       
+     132    1979      12      31       1     500       0       6      26        DOV     Dover International Speedway                 
+     133    1979      13      41     1.5     400       0       9      59        CHA     Lowe's Motor Speedway                   
+     134    1979      14      34     1.5     200       0       1      22        TEX     Texas Motor Speedway                 
+     135    1979      15      35    2.54      95       1       2       5        RIV     Riverside International Raceway                  
+     136    1979      16      36       2     200       0       6      46        MIC     Michigan International Speedway                 
+     137    1979      17      41     2.5     160       0       2      28        DAY     Daytona International Speedway              
+     138    1979      18      30   0.625     420       0       3       2        NAS     Nashville Speedway                       
+     139    1979      19      39     2.5     200       0       7      56        POC     Pocono Raceway                     
+     140    1979      20      41    2.66     188       0       5      34        TAL     Talladega Superspeedway                
+     141    1979      21      36       2     200       0       5      21        MIC     Michigan International Speedway            
+     142    1979      22      30   0.533     500       0       6      18        BRI     Bristol Motor Speedway                
+     143    1979      23      40   1.366     367       0       9      18        DAR     Darlington Raceway                    
+     144    1979      24      26    0.75     400       0       2       6        RIC     Richmond International Raceway        
+     145    1979      25      36       1     500       0      11      27        DOV     Dover International Speedway           
+     146    1979      26      30   0.526     500       0      10      12        MAR     Martinsville Speedway                    
+     147    1979      27      40     1.5     334       0       8      28        CHA     Lowe's Motor Speedway                
+     148    1979      28      29   0.625     400       0       9      12        NW      North Wilkesboro Speedway                   
+     149    1979      29      37   1.017     492       0      12      23        NC      North Carolina Speedway               
+     150    1979      30      41    1.54     328       0       5      25        ATL     Atlanta Motor Speedway                 
+     151    1979      31      37     2.5     200       0       6      35        ONT     Ontario Motor Speedway                 

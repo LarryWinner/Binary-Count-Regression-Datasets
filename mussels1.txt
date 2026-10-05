@@ -1,0 +1,24 @@
+Dataset:  mussels1.dat
+
+Source:  J.J. Sepkoski, Jr., M.A. Rex (1974). "Distribution of Freshwater
+Mussels: Coastal Rivers as Biogeographic Islands," Systematic Zoology,
+Vol. 23, #2, pp. 165-188.
+
+Description: Numbers of species of mussels in 41 rivers, and independent
+variables: Area, number of stepping stones (intermediate rivers) to 4 major
+species-source river systems (Alabama-Coosa (AC), Apalachicola (AP),
+St. Lawrence (SL), and Savannah (SV)), Nitrate Concentration,
+Hydronium concentration (10^(-pH)), solid residue.
+
+Variables/Columns
+River          1-28
+# species      31-33
+Area (sq. mi.)   35-41
+Stepping stones to AC  48-49
+Stepping stones to AP   55-57
+Stepping stones to SV    64-65
+Stepping stones to SL   71-73
+Nitrate    77-81
+Solid Residue   86-89
+Hydronium   92-97
+ln(Area)   99-105

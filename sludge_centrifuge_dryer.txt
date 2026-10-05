@@ -1,0 +1,20 @@
+Dataset: sludge_centrifuge_dryer.csv
+
+Source: B. Peeters, R. Dewil, I.Y. Smets (2012). "Improved Process Control
+of an Industrial Sludge Centrifuge-Dryer Installation Through Binary
+Logistic Regression Modeling of the Fouling Issues," Journal of Process
+Control, Vol. 22, pp. 1387-1396.
+
+Description: Results of an experiment with 3 factors on presence/absence
+of fouling by a sudge centrifuge dryer.
+Factors:
+Sludge Volume Index   /* 1 = < 60 mL/g,  2= > 60 */
+Flotation sludge to Feed  /* 1= No addition, 2=Addition, 3=polyaluminumchloride*/
+Clay Dosing   /* 1=Low, 2=Medium, 3=High  */
+
+Variables
+SVI
+sludgefd
+claydose
+totcase     /* Number of observations */
+numfoul    /* number fouling */

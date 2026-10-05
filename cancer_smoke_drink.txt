@@ -1,0 +1,12 @@
+Dataset: cancer_smoke_drink.csv
+
+Source: K.J. Rothman (1975). "A Pictorial Representation of Confounding
+in Epidemiologic Studies," Journal of Chronic Diseases, Vol. 28, Issue 2, pp. 101-108.
+
+Description: Results of a Case-Control study considering the effects of smoking and
+drinking on incidence of cancer of the mouth and pharynx.
+
+Variables:
+alcohol  (1=Alcohol drinker, 0=nondrinker)
+smoke (1=smoker, 0=nonsmoker)
+cancer (1=Yes (Cases), 0=No (Controls))

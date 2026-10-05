@@ -1,0 +1,43 @@
+Dataset: eleph_poach.dat
+
+Source: H. Jachmann and M. Billiouw (1997). "Elephant Poaching and Law
+Enforcement in the Central Luangwa Valley, Zambia," Journal of Applied Ecology,
+Vol. 34, #1, pp. 233-244
+
+Description: Frequency of Elephant Poaching incidences annually from 1988-1995.
+Two sets of predictors:
+1) Budget ($)
+ X1 = Law Enforcement expediture per km^2
+ X2 = Personal emoluments per scout per month
+ X3 = Transport Expenditure per
+ X4 = Average Bonus rate
+ X5 = # of Bonus claims paid
+2) Law Enforcement Input
+ X6 = km^2 per scout
+ X7 = km^2 per carrier
+ X8 = Effective patrol days/km^2
+ X9 = Effective investigation days
+
+All models fit used log-transformed predictors
+
+Variables/Columns
+Year 1-8
+Elephants killed   9-16
+X1   17-24
+X2   25-32
+X3   33-40
+X4   41-48
+X5   49-56
+X6   57-64
+X7   65-72
+X8   73-80
+X9   81-88
+ln(X1)   89-96
+ln(X2)   97-104
+ln(X3)   105-112
+ln(X4)   113-120
+ln(X5)   121-128
+ln(X6)   129-136
+ln(X7)   137-144
+ln(X8)   145-152
+ln(X9)   153-160

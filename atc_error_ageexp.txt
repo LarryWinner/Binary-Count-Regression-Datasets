@@ -1,0 +1,26 @@
+Dataset:  atc_error_ageexp.dat
+
+Source: D. Broach and D.J. Schroeder (2006). "Air Traffic Control
+Specialist Age and En Route Operational Errors," The International Journal
+of Aviation Psychology, 16(4), pp. 363-373
+
+Description: Count of ATC operational errors by experience and age.
+Note: Authors did not use exposure offset and inverted the 8 and 3 in reported deviance (First sentence of Results)
+
+Experience Categories:
+1 = <= 3 years
+2 = 4-9 years
+3 = 10-14 years
+4 = 15-19 years
+5 = 20-24 years
+6 = >= 25 years
+
+Age Categories
+1 = <= 55 years
+2 = >= 56 years
+
+Variables/Columns
+Experience Category   8
+Age Category         16
+# of operational errors   18-24
+ATC population (# operators)   26-32

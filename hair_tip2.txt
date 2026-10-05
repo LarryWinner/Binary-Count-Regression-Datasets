@@ -1,0 +1,14 @@
+Dataset: hair_tip2.csv
+
+Source: N. Gueguen (2012). "Hair Color and Wages: Waitresses with Blond Hair Have More Fun,"
+The Journal of Socio-Economics, Vol. 41, pp. 370-372.
+
+Description: Waitress hair color (1=Blond, 2=Black, 3=Brown, 4=Red),
+customer gender (1=Male, 2=Female), and whether she was given a tip 
+(tips not expected in France). 
+
+Variable Names
+ID
+cust.gend    (1=Male, 2=Female)
+hair.color   (1=Blond, 2=Black, 3=Brown, 4=Red)tip  (Euros)
+tip01        (1=Yes, 0=No)

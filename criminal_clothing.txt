@@ -1,0 +1,21 @@
+Dataset: criminal_clothing.csv
+
+Source: S.A. Wetmore, J.S. Neuschatz, S.D. Gronlund, K.N. Key, C.A. Goodsell
+(2015). "Do Clothes Make the Criminal? Thhe Influence of Clothing Match on
+Identification Accuracy in Showups," Journal of Applied Research in Memory
+and Cognition, Vol. 4, pp. 36-42.
+
+Description: Experiment on positive identification of a suspect
+varying 3 factors: 
+Perpetrator Present/Absent, 
+Shirt worn matching/not matching description
+Hat worn matching/not matching description
+Note: Number reported as Positive ID in PerpetratorAbsent/ShirtHatMismatch
+condition should be 43 (not 119) in Table 1 (confirmed by calculations 
+reported in paper and data in Appendix A).
+
+Variable Names
+perpPrsnt   (1=Present,0=Absent)
+shirtMatch   (1=Yes,0=No)
+hatMatch  (1=Yes, 0=No)
+posID     (1=Yes, 0=No) 

@@ -1,0 +1,20 @@
+Dataset: tribol_tox.dat
+
+Source: P.S. Hewlett(1969). "The Toxicity to Tribolium Castaneum
+(Herbst) (Coleoptora, Tenebrionidae) of Mixtures of Pyrethrins
+and Piperonyl Butoxide: Fitting a Mathematical Model,"
+Journal of Stored Products Research, Vol. 5, Issue 1, pp1-9.
+
+Description: Results of experiments varying pyrethrin and piperonyl
+butoxide concentrations on mortality of beetles (tribolium castaneum).
+Model fit (did not include control (0,0) in fit):
+
+Y* = a + b1*log(pyrethrin) + b2*(pip_but)/(b3+pip_but)
+
+Y* = 5 + z(Mortality proportion)    ("centerd" probit)
+
+Variables/Columns
+pyrethrin concentration   4-8
+piperonyl butoxide concentration  10-16
+number beetles exposed     20-24
+number mortalities    28-32

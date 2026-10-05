@@ -1,0 +1,15 @@
+Dataset: com_viol_recall.dat
+
+Source: M.R. Brown, R.K. Bhadury, and N.K.L. Pope (2010). "The Impact
+of Comedic Violence on Viral Advertising Effectiveness," Journal of
+Advertising, Vol. 39, #1, pp.49-65.
+
+Description: Results of presence/abwsence of brand recall 2-3 weeks
+after exposure to comidic violent advertisement. High/Low Intensity
+violence and Severe/Moderate Consequences
+
+Variables/Columns
+Condition 8  /* 1=High intensity/Severe Consequences 2=High/Mod, 3=Low/Sev, 4=Low/Mod
+High Intensity Dummy   16
+Severe Consequences Dummy 24
+Brand Recall Dummy   32

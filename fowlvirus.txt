@@ -1,0 +1,12 @@
+Dataset: fowlvirus.dat
+
+Source: D.B.W. Reid, J.F. Crawley, and A.J. Rhodes (1949). "A Study of Fowl
+Pox Virus Titration on the Chorio-Allantois by Pock Counting Technique,"
+Journal of Immunology, Vol.63 pp. 165-171
+
+Description: Pock Counts per membrane for 50 embryos exposed to
+one of 4 virus dilutions (multiples of 10^(-3.86).
+
+Variables/Columns
+Dilution factor   4-8
+Number of pocks observed   15-16

@@ -1,0 +1,16 @@
+Dataset:  conveyorbelt.csv
+
+Source: M. Andrejiova, A. Grincova, D. Marasova, G. Fedorko, V. Molnar (2014).
+"Using Logistic Regression t=in Tracing the Significance of Rubber-Textile Conveyor
+Belt Damage," Wear, Vol. 318, pp. 145-152.
+
+Description: Experiment to determine whether a dropped item caused significant
+damage to a conveyor belt (Y=1 if yes, 0 if no). Data approximated from Figure 6 (pyramid impactor).
+Factors: 
+X1 = Height of dropped item (meters)
+X2=1 if Belt is New (0 ow), X3=1 if Belt is Renovated (0 ow), Reference=Worn (X2=X3=0)
+
+Variable Names:
+degDam  (Degree of Damage, 3 or 4 => significant damage)
+belt  (1=New, 2=Renovated, 3=Worn)
+height   (meters)

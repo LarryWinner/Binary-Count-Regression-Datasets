@@ -1,0 +1,14 @@
+Dataset: sexorient_mri.csv
+
+Source: J. Ponsetti, O. Granert, O. Jansen, S. Wolff, H. Mehdorn, H. Bosinski, H. Siebner (2009).
+"Assessment of Sexual Orientation Using the Hemodynamic Brain Response to Visual Sexual Stimuli,"
+Journal of Sexual Medicine, Vol. 6,pp. 1628-1634.
+
+Description: Classification of 26 individuals (14 homosexual, 12 heterosexual) to sexual
+orientation based on MRI expression values. Data approximated from Figure 2, page 1632.
+Authors classified based on Fisher's Linear Discriminant Analysis and K-nearest neighbors (K=7).
+Classification was focused on heterosexual in terms of sensitivity and specificity.
+
+Variable Names: 
+MRIEV     (MRI Expresson value x 10^5)
+Group   (1=Homosexual, 2=Heterosexual)

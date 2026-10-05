@@ -1,0 +1,20 @@
+Dataset:  race7579.dat
+
+Source: www.nascar.com
+
+Description: List of all Nascar Winston Cup races from 1975-1979,
+including track length, laps, number of drivers, caution flags, lead changes and track name.
+
+Variables/Columns
+
+Series Race   6-8
+year          13-16
+season race   23-24
+# of drivers  31-32
+track length  34-40  /* miles */
+# of laps     46-48
+road track dummy   56  /* 1=Yes, 0=No  */
+caution flags   63-64
+lead changes    71-72
+track id      81-83
+track name  89-122

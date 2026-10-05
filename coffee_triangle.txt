@@ -1,0 +1,22 @@
+Dataset:  coffee_triangle.dat
+
+Source: R.A. Alvarado and A.R. Linnemann (2010). "The Predictive Value
+of a Small Consumer Panel for Coffee-Cupper Judgment," British Food
+Journal, Vol. 112, #9, pp. 1023-1032.
+
+Description: Results of Triangle test for 12 raters tasting 10 pairs of
+coffee varieties. Triangle test involves having each rater drink
+3 cups, 1 of 1 variety, 2 of the other. Each rater had 12 triangles
+for each pair of varieties, 2 each for the following sequences:
+AAB,ABA,BAA,ABB,BAB,BBA. Response is the number of correct identifying
+of the variety appearing once. Experiment conducted in 2 groups of 6
+raters each.
+
+Variables/Columns
+Group         8
+Rater        15-16 
+Coffee Pair   23-24
+Variety A     32
+Variety B     40
+Correct Cases   47-48
+Number of trials  55-56

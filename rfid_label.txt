@@ -1,0 +1,23 @@
+Dataset: rfid_label.csv
+
+Source: J. Singh, E. Olsen, K. Vorst, K. Tripp (2009). "RFID Tag
+Readability Issues with Palletized Loads of Consumer Goods,"
+Packaging Technology and Science, Vol. 22, pp. 431-441.
+
+Description: Experiment was conducted to examine Success/Failure
+of reading of Radio Frequency Identification on pallets of consumer goods.
+Response: Success/Failure of Reading RFID labels
+Predictors: Speed (1.62, 8.05, 16.09 km/hr),
+Pallet Pattern (1 = Column, 2 = Interlocking, 3 = Pinwheel)
+Product (1 = Bottled Water, 2 = Carbonated Beverage Can)
+
+Each pallet went through 5 passes, but Pass was not a factor in model.
+
+Variable names:
+product
+pattern
+speed
+passNum
+numRead
+numCase    (number of cases on pallet)
+

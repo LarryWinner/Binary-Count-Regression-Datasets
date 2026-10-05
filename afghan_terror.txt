@@ -1,0 +1,28 @@
+Dataset:  afghan_terror.dat
+
+Source:J.A. Piazza (2012). "The Opium Trade and Patterns of Terrorism
+in the Provinces of Afghanistan: An Empirical Analysis," Terrorism and
+Political Violence, Vol. 24, pp. 213-234
+
+Description: Variables relating to province's terrorism (incidennce and casualties) 
+in Afghanistan.
+Variables include: opium production, population, area, mountainous, nutrition, literacy,
+drinking water, roads, infant mortality, Pashtun majority, and Foreign troops.
+Author fit negative binomial regression, based on annual data (1994-2008).
+This data is aggregated over years (n=33).
+
+Variables/Columns
+Province    1-12
+Total Terrorism incidents   17-20
+Total Terrorism casualties  22-28
+Average Opium Cultivation (hectares)  30-36
+Population (1000s)       38-44
+Area (1000s km^2)        46-52
+Mountainous (%)     54-60
+Literacy Rate (%?)      64-68
+Access to Drinking water (%)  74-76
+Below minimum calories (%)   82-84
+All-season Roads  (%)   90-92
+Under 5 Mortality (per 1000)  96-100
+Pashtun Majority  (1=Yes,0=No)  108
+Average Foreign Troops (per year) 110-116

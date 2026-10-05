@@ -1,0 +1,20 @@
+Dataset:  brit_rail_acc.dat
+
+Source: Andrew W. Evans (2007). "Rail Safety and rail Privatization in Britain,"
+Accident Analysis and Prevention, Vol. 39, pp. 510-523.
+
+Description:
+Numbers of fata rail accidents and millions of main line train km annually
+in Britain for 1946-2003. Rail was privatised in 1994. Author fits Poisson 
+regression for 1967-2003 overall fatalites per train mile as primary analysis.
+
+Variables/Columns
+Year    5-8
+Main line train (millions of km) 10-16
+collision, derailment and overrun accidents   22-24
+collision, derailment and overrun fatalities  28-32
+Train/road vehicle collision accidents  36-40 
+Train/road vehicle collision fatalities  44-48
+Movements and non-movement accidents   52-56 
+Movements and non-movement accidents fatalities    60-64
+ 

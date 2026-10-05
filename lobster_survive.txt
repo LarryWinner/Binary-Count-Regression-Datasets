@@ -1,0 +1,13 @@
+Dataset: lobster_survive.dat
+
+Source: E.B. Wilkinson, J.H. Grabowski, G.D. Sherwood, P.O. Yund (2015).
+"Influence of Predator Identity on the Strength of Predator Avoidance
+Response in Lobsters," Journal of Experimental Biology and Ecology,
+Vol. 465, pp. 107-112.
+
+Description: Lobster survival during tethering experiments by carpace length.
+Data at individual lobster level (grouped in 3 mm length increments).
+
+Variables/Columns
+Carpace Length in mm   7-8
+Survive      16  /* 0=No, 1=Yes  */
